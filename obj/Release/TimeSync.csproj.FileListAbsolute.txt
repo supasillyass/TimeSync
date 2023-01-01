@@ -1,0 +1,4 @@
+C:\Users\Miguel\Downloads\ntpclient_src\bin\Release\TimeSync.exe
+C:\Users\Miguel\Downloads\ntpclient_src\obj\Release\TimeSync.csproj.AssemblyReference.cache
+C:\Users\Miguel\Downloads\ntpclient_src\obj\Release\TimeSync.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Downloads\ntpclient_src\obj\Release\TimeSync.exe
