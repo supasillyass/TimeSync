@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSync", "TimeSync.csproj", "{696D9023-5BFF-4416-9428-25550712200F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{696D9023-5BFF-4416-9428-25550712200F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696D9023-5BFF-4416-9428-25550712200F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696D9023-5BFF-4416-9428-25550712200F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696D9023-5BFF-4416-9428-25550712200F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF285E3B-AC89-4112-93F8-31144AA8AF8D}
+	EndGlobalSection
+EndGlobal
